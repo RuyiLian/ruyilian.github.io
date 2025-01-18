@@ -15,6 +15,8 @@ My primary research interests are in the fields of computer vision, computer gra
 
 Publication
 ======
+Yunye Gong, Jiachen Yao, **Ruyi Lian**, Xiao Lin, Chao Chen, Ajay Divakaran and Yi Yao. **Recovering manifold representations via unsupervised meta-learning**. Frontiers in Computer Science 6: 1255517 (2025). 
+
 Shivasankaran Vanaja Pandi, Zhenghong Li, **Ruyi Lian**, Joyce Lee, Wensheng Cheng, Liguo Wang, Yuewei Lin, Qun Liu, and Haibin Ling. **A Novel Contrastive Loss and Clustering Approach for Particle Detection in Cryo-EM**. ISBI, 2025.
 
 **Ruyi Lian**, Yuewei Lin, Longin Jan Latecki, and Haibin Ling. **VAPO: Visibility-Aware Keypoint Localization for Efficient 6DoF Object Pose Estimation**. arXiv 2024. [[arXiv](https://arxiv.org/abs/2403.14559)]
