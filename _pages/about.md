@@ -13,6 +13,8 @@ In 2025, I received my Ph.D. in Computer Science from [Stony Brook University](h
 
 **I am actively seeking passionate and self-motivated Ph.D. students to join my research group at South Dakota State University, working on 3D computer vision tasks and interdisciplinary topics. If you are interested, please contact me at  Ruyi.Lian@sdstate.edu with your CV and transcripts. Due to a high volume of inquiries, please allow several days for a response.**
 
+My lab: [3D Perception and Scientific Imaging Laboratory](https://www.sdstate.edu/mccomish-electrical-engineering-computer-science/3d-perception-scientific-imaging-laboratory)
+
 My primary research interests are in the fields of computer vision, computer graphics, robotics, computational biology, and AI for science. 
 
 Current Research Directions:
