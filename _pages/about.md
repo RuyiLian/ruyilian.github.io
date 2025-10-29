@@ -11,8 +11,6 @@ redirect_from:
 I am an Assistant Professor in the [Department of Electrical Engineering and Computer Science (EECS)](https://www.sdstate.edu/mccomish-electrical-engineering-computer-science) at [South Dakota State University](https://www.sdstate.edu).
 In 2025, I received my Ph.D. in Computer Science from [Stony Brook University](https://www.stonybrook.edu), advised by [Dr. Haibin Ling](https://www3.cs.stonybrook.edu/~hling). In 2019, I obtained B.Sc. degree at [School of Mathematical Sciences](http://math.ustc.edu.cn), [University of Science and Technology of China](http://www.ustc.edu.cn), majoring in applied mathematics. 
 
-**I am actively seeking passionate and self-motivated Ph.D. students to join my research group at South Dakota State University, working on 3D computer vision tasks and interdisciplinary topics. If you are interested, please contact me at  Ruyi.Lian@sdstate.edu with your CV and transcripts. Due to a high volume of inquiries, please allow several days for a response.**
-
 My lab: [3D Perception and Scientific Imaging Laboratory](https://www.sdstate.edu/mccomish-electrical-engineering-computer-science/3d-perception-scientific-imaging-laboratory)
 
 My primary research interests are in the fields of computer vision, computer graphics, robotics, computational biology, and AI for science. 
