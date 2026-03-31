@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Disclaimer: This website is not an official website of South Dakota State University. The views and opinions expressed on this site are solely those of the author(s) and do not represent the official positions, policies, or views of South Dakota State University.
 
 I am an Assistant Professor in the [Department of Electrical Engineering and Computer Science (EECS)](https://www.sdstate.edu/mccomish-electrical-engineering-computer-science) at [South Dakota State University](https://www.sdstate.edu).
 In 2025, I received my Ph.D. in Computer Science from [Stony Brook University](https://www.stonybrook.edu), advised by [Dr. Haibin Ling](https://www3.cs.stonybrook.edu/~hling). In 2019, I obtained B.Sc. degree at [School of Mathematical Sciences](http://math.ustc.edu.cn), [University of Science and Technology of China](http://www.ustc.edu.cn), majoring in applied mathematics. 
