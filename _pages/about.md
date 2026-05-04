@@ -9,17 +9,33 @@ redirect_from:
 ---
 Disclaimer: This website is not an official website of South Dakota State University. The views and opinions expressed on this site are solely those of the author(s) and do not represent the official positions, policies, or views of South Dakota State University.
 
-I am an Assistant Professor in the [Department of Electrical Engineering and Computer Science (EECS)](https://www.sdstate.edu/mccomish-electrical-engineering-computer-science) at [South Dakota State University](https://www.sdstate.edu).
+I am an Assistant Professor in the [Department of Electrical Engineering and Computer Science (EECS)](https://www.sdstate.edu/mccomish-electrical-engineering-computer-science) at [South Dakota State University](https://www.sdstate.edu). My primary research interests are in the fields of 3D computer vision, robotics, and AI for science. 
+
 In 2025, I received my Ph.D. in Computer Science from [Stony Brook University](https://www.stonybrook.edu), advised by [Dr. Haibin Ling](https://www3.cs.stonybrook.edu/~hling). In 2019, I obtained B.Sc. degree at [School of Mathematical Sciences](http://math.ustc.edu.cn), [University of Science and Technology of China](http://www.ustc.edu.cn), majoring in applied mathematics. 
+
+Lab 
+=====
 
 My lab: [3D Perception and Scientific Imaging Laboratory](https://www.sdstate.edu/mccomish-electrical-engineering-computer-science/3d-perception-scientific-imaging-laboratory)
 
-My primary research interests are in the fields of computer vision, computer graphics, robotics, computational biology, and AI for science. 
+
 
 Current Research Directions:
-1. Image-Based Object Pose Estimation: Focusing on both instance-level and novel object pose estimation, with an emphasis on deep geometric understanding of objects from visual inputs.
-2. 3D Reconstruction and Analysis from Diverse Imaging Modalities:  Developing methods for processing and analyzing diverse image modalities, including cryo-electron microscopy (cryo-EM), optical coherence tomography (OCT), and other specialized imaging techniques.
-3. Interdisciplinary Topics: Applying 3D vision algorithms to various assistive systems.
+1. Image-based object pose estimation, 3D perception, and robotic grasping.
+2. 3D analysis, reconstruction, and generation for visual understanding and embodied intelligence.
+3. Interdisciplinary applications of computer vision and AI in civil engineering, construction, agriculture, and biomedical imaging (cryo-EM, OCT, etc.).
+
+Current PhD Students:
+1. Xiaozhu Jin
+2. Nilufa Yeasmin
+
+To Current South Dakota State University Students:
+If you are interested in computer vision, robotics, and AI research, including independent study and undergraduate research opportunities, feel free to reach out and discuss potential projects.
+
+Teaching
+======
+- CSC 422/522 (Computer Vision and Pattern Recognition), Spring 2026
+- CSC 300 (Data Structures), Fall 2025
 
 Publication
 ======
