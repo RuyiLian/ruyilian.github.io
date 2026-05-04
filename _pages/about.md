@@ -27,7 +27,7 @@ Current Research Directions:
 
 Current PhD Students:
 1. Xiaozhu Jin
-2. Nilufa Yeasmin
+2. Most Nilufa Yeasmin
 
 To Current South Dakota State University Students:
 If you are interested in computer vision, robotics, and AI research, including independent study and undergraduate research opportunities, feel free to reach out and discuss potential projects.
